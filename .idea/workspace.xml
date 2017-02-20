@@ -29,12 +29,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="1617" column="79" selection-start-line="1617" selection-start-column="79" selection-end-line="1617" selection-end-column="79" />
+            <state relative-caret-position="332">
+              <caret line="417" column="48" selection-start-line="417" selection-start-column="48" selection-end-line="417" selection-end-column="48" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#7747#7755#0" expanded="true" />
-                <element signature="e#8376#8384#0" expanded="true" />
+                <element signature="e#7720#7728#0" expanded="true" />
+                <element signature="e#8349#8357#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,6 +120,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -195,12 +209,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487587429793</updated>
-      <workItem from="1487587431302" duration="6872000" />
+      <workItem from="1487587431302" duration="9201000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated content">
+      <created>1487618881344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1487618881344</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6872000" />
+    <option name="totallyTimeSpent" value="9201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="0" />
@@ -253,6 +275,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated content" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -281,12 +307,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="1617" column="79" selection-start-line="1617" selection-start-column="79" selection-end-line="1617" selection-end-column="79" />
+        <state relative-caret-position="332">
+          <caret line="417" column="48" selection-start-line="417" selection-start-column="48" selection-end-line="417" selection-end-column="48" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#7747#7755#0" expanded="true" />
-            <element signature="e#8376#8384#0" expanded="true" />
+            <element signature="e#7720#7728#0" expanded="true" />
+            <element signature="e#8349#8357#0" expanded="true" />
           </folding>
         </state>
       </provider>
