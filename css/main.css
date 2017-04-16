@@ -41,6 +41,10 @@ body {
 	color: #454545;
 	background-color: #eaedf4;
 }
+.even-row {
+	background-color: #d5d8de;
+	background-image: url(../images/recent-post-bg.jpg);
+}
 
 ul {
 	list-style: none;
@@ -646,7 +650,6 @@ a.navbar-brand {
 /*============================
 ==========cause-list==========
 ==============================*/
-
 #cause-list {
 	padding-top:50px;
 }
