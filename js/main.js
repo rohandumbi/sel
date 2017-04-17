@@ -129,7 +129,9 @@ $(document).ready(function($) {
 		$(this).parent().addClass('active');
 		$('#css-preset').removeAttr('href').attr('href', 'css/presets/preset' + $(this).parent().data('preset') + '.css');
 	})
-	
+
+	//initializing WOW
+	new WOW().init();
 		
 });
 
