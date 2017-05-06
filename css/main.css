@@ -276,7 +276,7 @@ a.navbar-brand {
 }
 
 #navigation .navbar-right {
-	margin-top: 60px;
+	margin-top: 30px;
 	margin-right: 35px;
 }
 
@@ -841,7 +841,7 @@ a.navbar-brand {
 ================================*/
 #research {
 	padding-top: 55px;
-	margin-top: 150px;
+	margin-top: 70px;
 }
 
 /*==============================
@@ -849,7 +849,7 @@ a.navbar-brand {
 ================================*/
 #introduction {
 	padding-top: 55px;
-	margin-top: 150px;
+	margin-top: 70px;
 }
 
 /*==============================
@@ -857,7 +857,7 @@ a.navbar-brand {
 ================================*/
 #seminar {
 	padding-top: 55px;
-	margin-top: 150px;
+	margin-top: 70px;
 }
 
 
@@ -866,10 +866,15 @@ a.navbar-brand {
 ================================*/
 #training-list {
 	padding-top: 55px;
-	margin-top: 150px;
+	margin-top: 70px;
 }
 
-
+/*==============================
+=========carousel============
+================================*/
+#carousel-wrapper {
+	margin-top: 70px;
+}
 
 
 /*==============================
@@ -1325,7 +1330,7 @@ a.navbar-brand {
 =====================================*/
 #contact {
 	padding-top:55px;
-	margin-top: 150px;
+	margin-top: 70px;
 }
 
 #contact .section-title {
