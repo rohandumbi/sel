@@ -136,6 +136,10 @@ h1, h2, h3, h4, h5, h6 {
 	background-color: #fff;
 }
 
+.navbar-section {
+	background-color: #00aeef;
+}
+
 .btn-primary {	
 	border-width:2px;
 	border-radius: 0;
@@ -833,6 +837,42 @@ a.navbar-brand {
 }
 
 /*==============================
+=========Research============
+================================*/
+#research {
+	padding-top: 55px;
+	margin-top: 150px;
+}
+
+/*==============================
+=========sel============
+================================*/
+#introduction {
+	padding-top: 55px;
+	margin-top: 150px;
+}
+
+/*==============================
+=========seminar============
+================================*/
+#seminar {
+	padding-top: 55px;
+	margin-top: 150px;
+}
+
+
+/*==============================
+=========training-list============
+================================*/
+#training-list {
+	padding-top: 55px;
+	margin-top: 150px;
+}
+
+
+
+
+/*==============================
 =========Recent-post============
 ================================*/
 
@@ -1285,6 +1325,7 @@ a.navbar-brand {
 =====================================*/
 #contact {
 	padding-top:55px;
+	margin-top: 150px;
 }
 
 #contact .section-title {
