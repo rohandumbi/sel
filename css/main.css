@@ -427,6 +427,15 @@ a.navbar-brand {
 	background-repeat:no-repeat;
 }
 
+#main-carousel h1{
+	/*color:#ef8700;*/
+	color:#9c0a00;
+}
+
+#main-carousel p{
+	color:#9c0a00;
+}
+
 .carousel-caption {
   color: #fff;
   font-size: 15px;
